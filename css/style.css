@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Spooky";
+  src: url(../assets/OctoberCrow.ttf) format("truetype");
+}
+
+body{
+	background: black;
+	color: orange;
+	font-family: "Spooky", sans-serif
+}
+
+
